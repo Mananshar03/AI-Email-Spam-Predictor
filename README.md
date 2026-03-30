@@ -33,7 +33,7 @@ You can type in an email or upload a CSV file, and the app instantly classifies 
 
 ---
 
-## 🚀 Setup & Usage
+## Setup & Usage
 
 Open your **Terminal (Mac/Linux)** or **Command Prompt/PowerShell (Windows)** and run the following commands:
 
@@ -43,3 +43,12 @@ pip install streamlit pandas scikit-learn
 
 # 2. To Run the Application
 streamlit run email_class.py
+## Follow these steps to test the AI Image Classifier and Editor:
+
+1. Open the App  
+   Launch the application in your web browser.
+2. Write an email or upload a csv file
+3. Click option of pridiction
+4. model will tell you the email is spam or not
+
+

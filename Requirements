@@ -1,0 +1,20 @@
+# Requirements for Email Spam Detector
+
+This document lists all the Python libraries required to run the **Streamlit Email Spam Detector** app.
+
+---
+
+## Core Dependencies
+
+- **streamlit** – For building the interactive web app UI  
+- **pandas** – For handling CSV files and tabular data  
+- **scikit-learn** – For machine learning (CountVectorizer + MultinomialNB)  
+
+---
+
+## Installation
+
+Run the following command in your terminal to install all dependencies:
+
+```bash
+pip install -r requirements.txt
